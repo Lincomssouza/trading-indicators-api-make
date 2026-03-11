@@ -1,0 +1,12 @@
+{
+  "name": "trading-indicators-api",
+  "version": "1.0.0",
+  "description": "Trading indicators API for Make.com automation",
+  "main": "api/indicators.js",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
